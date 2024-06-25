@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm ritchai, and I like web devolop
-
+I'm ritchai, and I like to develop myself
 
 <!--
 **RitcBoss/ritcboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
